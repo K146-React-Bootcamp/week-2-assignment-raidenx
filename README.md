@@ -10,7 +10,7 @@ renderTodos metodu çalıştırılacak.
 
 ##### README.md dosyası, txt, js dosyası açarak yapılabilir.
 
-*3-)*HTTP Status'ün 
+** HTTP Status'ün 
   * Görevleri nelerdir? Bu görevlerin anlamlarını açıklayınız.
    
 * HTTP Request'in metodlari  nelerdir? 
