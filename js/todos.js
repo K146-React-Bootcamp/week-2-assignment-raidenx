@@ -8,7 +8,7 @@ let todo;
 var x = true;
 let z = true;
 
-// X ve Z yi Sort metodunda işlemleri tekrarlayabilmek için kullandım
+// X ve Z yi Sort metodunda click işlemlerini tekrarlayabilmek için kullandım
 
 
 let currentPage = 2;
