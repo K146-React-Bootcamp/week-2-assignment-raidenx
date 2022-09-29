@@ -1,0 +1,16 @@
+
+html{
+  height: 100vh;
+}
+.cursor{
+  border-radius: 12px;
+   transition: 100ms;
+}
+.cursor:hover{
+    background-color: rgb(78, 112, 131);
+}
+
+.pagination{
+  position: relative;
+  bottom: 8px;
+}
