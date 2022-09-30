@@ -128,11 +128,11 @@ const renderTodos = (page) => {
 
 
 	// 		SORT Kısmı title için
-	let id = document.querySelectorAll("th")[1];
-	id.classList.add("cursor");
-	id.classList.add("text-center");
-	id.style.cursor = "pointer"
-	id.addEventListener("click", () => {
+	let thTitle = document.querySelectorAll("th")[1];
+	thTitle.classList.add("cursor");
+	thTitle.classList.add("text-center");
+	thTitle.style.cursor = "pointer"
+	thTitle.addEventListener("click", () => {
 		if (z === true) {
 			todos = todos.slice(0, 15).sort((a, b) => {
 				const nameA = a.title.toUpperCase();
